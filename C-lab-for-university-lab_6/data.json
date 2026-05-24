@@ -1,0 +1,36 @@
+{
+  "Name": "Platform Review",
+  "Periodicity": "Monthly",
+  "IssueDate": "2026-05-04T00:00:00+03:00",
+  "Circulation": 42000,
+  "Editors": [
+    {
+      "Name": "Ivan",
+      "Surname": "Petrov",
+      "DateOfBirth": "1985-07-12T00:00:00",
+      "BirthYear": 1985
+    }
+  ],
+  "Articles": [
+    {
+      "Author": {
+        "Name": "Olena",
+        "Surname": "Shevchenko",
+        "DateOfBirth": "1990-02-18T00:00:00",
+        "BirthYear": 1990
+      },
+      "Title": "Platform Architecture",
+      "Rating": 4.7
+    },
+    {
+      "Author": {
+        "Name": "Ivan",
+        "Surname": "Ivanov",
+        "DateOfBirth": "1990-05-10T00:00:00",
+        "BirthYear": 1990
+      },
+      "Title": "New Article",
+      "Rating": 4.5
+    }
+  ]
+}
